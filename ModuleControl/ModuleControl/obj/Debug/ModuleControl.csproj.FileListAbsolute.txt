@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\ILYA\ModuleControl\ModuleControl\bin\Debug\ModuleControl.exe.config
+C:\Users\Student\Documents\ILYA\ModuleControl\ModuleControl\bin\Debug\ModuleControl.exe
+C:\Users\Student\Documents\ILYA\ModuleControl\ModuleControl\bin\Debug\ModuleControl.pdb
+C:\Users\Student\Documents\ILYA\ModuleControl\ModuleControl\obj\Debug\ModuleControl.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\ILYA\ModuleControl\ModuleControl\obj\Debug\ModuleControl.exe
+C:\Users\Student\Documents\ILYA\ModuleControl\ModuleControl\obj\Debug\ModuleControl.pdb
